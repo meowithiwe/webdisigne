@@ -1,0 +1,36 @@
+#p1 {
+	text-align:center ;
+}
+p {
+	font-size: 15pt;
+	color: white;
+	text-indent: 25px;
+}
+hr {
+    border: none; /* Убираем границу для браузера Firefox */
+    color: black; /* Цвет линии для остальных браузеров */
+    background-color: purple; /* Цвет линии для браузера Firefox и Opera */
+    height: 3px; /* Толщина линии */
+}
+body {
+	background:url(../images/fon3.jpg);
+}
+th {
+	border: 2px solid black;
+	width: 1% ;
+	background-color:#fa41fa;
+}
+.content {
+  font-family: Arial ;
+  text-align: justify ;
+  width: 70%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 6px;
+  background: black;
+}
+h1 {
+	   text-align: center ;
+	   color: white ;
+   }
+   
